@@ -1,4 +1,4 @@
-RBUNIXCrypt v1.2
+# RBUNIXCrypt #
 
 A REALbasic library for validating UNIX crypt style passwords.
 
