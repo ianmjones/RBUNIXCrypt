@@ -17,6 +17,13 @@ the salt should be the first 2 characters of the encrypted string.
 This is classic crypt, only the first 8 characters of the password count.
 
 
+## How To Get ##
+
+[Download, clone or fork from GitHub](https://github.com/ianmjones/RBUNIXCrypt)
+
+	git clone https://github.com/ianmjones/RBUNIXCrypt.git
+
+
 ## Author ##
 
 Ian M. Jones  
